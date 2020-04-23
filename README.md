@@ -1,2 +1,11 @@
 # python--web-scraper
-This is a python script fetch data from sites 
+
+Goto python--web-scraper/web_scraper
+
+Install the dependencies by 
+
+pip install -r requirements.txt
+
+Run the script by 
+
+python __ikman_fetcher.py
